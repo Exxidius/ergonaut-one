@@ -37,10 +37,10 @@
         lower_layer {
             display-name = "SYM";
             bindings = <
-&mt LGUI F1     &kp EXCL       &kp AT     &kp HASH        &kp DLLR          &kp PERCENT  &kp CARET  &kp AMPERSAND      &kp ASTERISK     &kp PLUS   &kp MINUS  &kp F12
-&mt LCTRL PLUS  &kp BACKSLASH  &kp TILDE  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp LPAR     &kp RPAR   &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp EQUAL  &kp SLASH  &mt RCTRL MINUS
-&mt LALT EQUAL  &kp N1         &kp N2     &kp N3          &kp N4            &kp N5       &kp N6     &kp N7             &kp N8           &kp N9     &kp N0     &kp RALT
-                                          &trans          &trans            &trans       &trans     &trans             &trans
+&mt LGUI F1     &kp EXCL     &kp AT     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PIPE   &kp UP_ARROW   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp ASTERISK  &kp F12
+&mt LCTRL PLUS  &kp HASH     &kp DLLR   &kp LPAR          &kp RPAR           &kp GRAVE  &kp DOWN       &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS      &mt RCTRL MINUS
+&mt LALT EQUAL  &kp PERCENT  &kp CARET  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp TILDE  &kp AMPERSAND  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp SLASH     &kp RALT
+                                        &trans            &trans             &trans     &trans         &kp NUMBER_0  &kp EQUAL
             >;
         };
 
