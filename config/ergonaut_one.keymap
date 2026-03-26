@@ -40,7 +40,7 @@
 &mt LGUI F1     &kp EXCL     &kp AT     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PIPE   &kp UP_ARROW   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp ASTERISK  &kp F12
 &mt LCTRL PLUS  &kp HASH     &kp DLLR   &kp LPAR          &kp RPAR           &kp GRAVE  &kp DOWN       &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS      &mt RCTRL MINUS
 &mt LALT EQUAL  &kp PERCENT  &kp CARET  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp TILDE  &kp AMPERSAND  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp SLASH     &kp RALT
-                                        &trans            &trans             &trans     &trans         &kp NUMBER_0  &kp EQUAL
+                                        &trans            &trans             &trans     &trans         &kp EQUAL     &kp NUMBER_0
             >;
         };
 
